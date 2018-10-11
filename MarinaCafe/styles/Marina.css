@@ -1,0 +1,81 @@
+body{
+	background: url('../images/MarinaBack.png');
+	color: white;
+	font-family: "Times New Roman";
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.banner1{
+	margin: auto;
+	text-align: center;
+	width: 65%;
+}
+.banner2{
+	margin: auto;
+	text-align: center;
+	width: 65%;
+}
+.banner3{
+	margin: auto;
+	text-align: center;
+	width: 55%;
+}
+.banner4{
+	margin: auto;
+	text-align: center;
+	width: 65%;
+}
+
+img{
+	text-align: center;
+}
+.image{
+	text-align: center;
+}
+.visible-xs{
+	color: transparent;
+}
+.visible-sm{
+	color: transparent;
+}
+.visible-md{
+	color: transparent;
+}
+.visible-lg{
+	color: transparent;
+}
+.bg-warning {
+	background-color: transparent;
+}
+.logo1{
+    height: 200px;
+    width: 200px;
+}
+.logo2{
+    height: 200px;
+    width: 200px;
+}
+.row{
+	margin-left: auto;
+	margin-right: auto;
+}
+.trans{
+	background-color:transparent;
+}
+.homeicon {max-width:80px;
+}
+.home{
+	background-color:transparent;
+}
+.exp{
+	color: black;
+}
+.cen{
+	text-align:center;
+}
+.openhour {
+	height: 150px;
+	text-align: center;
+}
+
